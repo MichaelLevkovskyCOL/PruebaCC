@@ -8,8 +8,6 @@ Elaborado por:
 	Eclipse Java EE IDE for Web Developers.
 	Version: Mars.1 Release (4.5.1)
 
-		
-	Usando el simulador:
 	------------------------------------------------------------------------------------------------------------------
 Se define el arreglo Bidimensional como la superficie en la que se desplazará el vehiculo
 1. Ingresa el numero de filas y de columnas respectivamente, cuando en consola se pregunte.
@@ -19,3 +17,5 @@ Se define el arreglo Bidimensional como la superficie en la que se desplazará e
 		
 
 Copiar los archivos creando una dependencia de clase con el nombre correspondiente en Eclipse y pegar el contenido y ejecutar. Abrir la terminal y seguir las instrucciones
+
+Gracias
